@@ -16,7 +16,7 @@ vehiculos_json = {
     {
       "tipo": "Auto",
       "marca": "Toyota",
-      "modelo": "Corolla",
+      "modelo": "Cavani",
       "cilindrada": "1800cc",
       "precio": "20000"
     },
